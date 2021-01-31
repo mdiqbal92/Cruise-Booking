@@ -121,3 +121,7 @@ nav ul li a:hover, a.active{
     display: flex;
     justify-content: space-between;
 }
+.showMessage{
+    display: none;
+    color: green;
+}
